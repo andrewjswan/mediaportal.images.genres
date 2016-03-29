@@ -1164,6 +1164,13 @@
               <ZipFileName>Installer{CopyFile}\{48f4c13d-5ed5-4f58-a073-fe6587bffaa5}-zombie.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\zombie.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\f1.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e3e34292-7ba3-441b-b4ef-eb0831e507f4}-f1.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\f1.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -1310,7 +1317,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>1</Revision>
+      <Revision>2</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Genres images for Medaportal skins
 Genres - White 96x96 pack
@@ -2510,11 +2517,18 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{48f4c13d-5ed5-4f58-a073-fe6587bffaa5}-zombie.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\zombie.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\f1.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e3e34292-7ba3-441b-b4ef-eb0831e507f4}-f1.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\f1.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="true" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{605254e6-cd4d-446d-99d0-05217d4ae9f3}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{378e6676-6bca-4d5e-9b68-668b4e55ba09}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
