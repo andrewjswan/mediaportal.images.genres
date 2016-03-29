@@ -1171,6 +1171,34 @@
               <ZipFileName>Installer{CopyFile}\{e3e34292-7ba3-441b-b4ef-eb0831e507f4}-f1.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\f1.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\east.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{b88cd91c-647d-428f-ad8a-0cfd6b8a9cbf}-east.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\east.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\north.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{8c97df47-7599-4d88-a5e7-66aca967ccb7}-north.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\north.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\south.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5a3c1db4-b437-4e38-a434-f5c0a549a78a}-south.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\south.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\west.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{cd4011fc-3847-4811-87e3-a541052d6981}-west.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\west.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -1317,7 +1345,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>2</Revision>
+      <Revision>3</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Genres images for Medaportal skins
 Genres - White 96x96 pack
@@ -2524,11 +2552,39 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{e3e34292-7ba3-441b-b4ef-eb0831e507f4}-f1.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\f1.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\east.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{b88cd91c-647d-428f-ad8a-0cfd6b8a9cbf}-east.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\east.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\north.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{8c97df47-7599-4d88-a5e7-66aca967ccb7}-north.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\north.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\south.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5a3c1db4-b437-4e38-a434-f5c0a549a78a}-south.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\south.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\west.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{cd4011fc-3847-4811-87e3-a541052d6981}-west.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\west.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="true" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{378e6676-6bca-4d5e-9b68-668b4e55ba09}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{f526ad1d-fc0b-43a4-b955-0eceb4032f46}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
