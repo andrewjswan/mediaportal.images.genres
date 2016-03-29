@@ -1199,6 +1199,41 @@
               <ZipFileName>Installer{CopyFile}\{cd4011fc-3847-4811-87e3-a541052d6981}-west.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\west.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\big bang theory.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ded753b5-df4d-4a45-baee-f3e3bffd970a}-big bang theory.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\big bang theory.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\dexter.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{06127bcb-1799-4aff-9c88-ecfc87b6e13c}-dexter.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\dexter.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\ticket.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5911d7de-8add-4f67-9fba-12bf70f1f3a4}-ticket.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\ticket.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\treasure.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4c570ac2-6f97-4898-b275-193a0c15363b}-treasure.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\treasure.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\true blood.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6cbeaa4f-e18e-4bb8-a304-e9132bdc1364}-true blood.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\true blood.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -1345,12 +1380,12 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>3</Revision>
+      <Revision>4</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Genres images for Medaportal skins
 Genres - White 96x96 pack
 Charachters - Color 96x96 pack</ExtensionDescription>
-    <VersionDescription>Initial ...</VersionDescription>
+    <VersionDescription>Initial ... Add some charachters ...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.genres/master/build/mediaportal.genres.mpe1</OnlineLocation>
     <ReleaseDate>2016-03-29T13:46:50.8929615+03:00</ReleaseDate>
@@ -2580,11 +2615,46 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{cd4011fc-3847-4811-87e3-a541052d6981}-west.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\west.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\big bang theory.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ded753b5-df4d-4a45-baee-f3e3bffd970a}-big bang theory.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\big bang theory.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\dexter.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{06127bcb-1799-4aff-9c88-ecfc87b6e13c}-dexter.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\dexter.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\ticket.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5911d7de-8add-4f67-9fba-12bf70f1f3a4}-ticket.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\ticket.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\treasure.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4c570ac2-6f97-4898-b275-193a0c15363b}-treasure.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\treasure.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\true blood.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{6cbeaa4f-e18e-4bb8-a304-e9132bdc1364}-true blood.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\true blood.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="true" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{f526ad1d-fc0b-43a4-b955-0eceb4032f46}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{bf5d110f-ab46-4355-8043-ce4cb340866e}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
