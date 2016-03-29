@@ -1312,7 +1312,9 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Build>0</Build>
       <Revision>1</Revision>
     </Version>
-    <ExtensionDescription>FanartHandler Genres images for Medaportal skins</ExtensionDescription>
+    <ExtensionDescription>FanartHandler Genres images for Medaportal skins
+Genres - White 96x96 pack
+Charachters - Color 96x96 pack</ExtensionDescription>
     <VersionDescription>Initial ...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.genres/master/build/mediaportal.genres.mpe1</OnlineLocation>
@@ -2512,7 +2514,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{2465962d-bdf8-4539-b007-9b7e12bcd0cf}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{605254e6-cd4d-446d-99d0-05217d4ae9f3}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
