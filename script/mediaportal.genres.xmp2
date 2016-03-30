@@ -2654,7 +2654,7 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{bf5d110f-ab46-4355-8043-ce4cb340866e}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{b4c99901-0571-4a80-94e5-ccc02b71b7be}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
