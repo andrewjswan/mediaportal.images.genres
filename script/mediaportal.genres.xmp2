@@ -1237,6 +1237,30 @@
           </Items>
         </Files>
       </GroupItem>
+      <GroupItem Name="FanartHandler">
+        <ParentGroup />
+        <DisplayName>FanartHandler</DisplayName>
+        <DefaulChecked>true</DefaulChecked>
+        <Description>FanartHandler Genres</Description>
+        <Files>
+          <Items>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\..\..\C#\FanartHandler\Installer\config\FanartHandler.Genres.xml</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3e930f6f-ef84-442f-8038-7bc2ca69f5e0}-FanartHandler.Genres.xml</ZipFileName>
+              <DestinationFilename>%Base%\FanartHandler.Genres.xml</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\..\..\C#\FanartHandler\Installer\config\FanartHandler.Characters.xml</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{9fb9fadf-39ee-4e5d-a5ac-97391687e471}-FanartHandler.Characters.xml</ZipFileName>
+              <DestinationFilename>%Base%\FanartHandler.Characters.xml</DestinationFilename>
+            </FileItem>
+          </Items>
+        </Files>
+      </GroupItem>
     </Items>
   </Groups>
   <Sections>
@@ -1380,12 +1404,12 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>4</Revision>
+      <Revision>5</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Genres images for Medaportal skins
 Genres - White 96x96 pack
 Charachters - Color 96x96 pack</ExtensionDescription>
-    <VersionDescription>Initial ... Add some charachters ...</VersionDescription>
+    <VersionDescription>Add FH Genres XML</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.genres/master/build/mediaportal.genres.mpe1</OnlineLocation>
     <ReleaseDate>2016-03-29T13:46:50.8929615+03:00</ReleaseDate>
@@ -2650,11 +2674,25 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{6cbeaa4f-e18e-4bb8-a304-e9132bdc1364}-true blood.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\true blood.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\..\..\C#\FanartHandler\Installer\config\FanartHandler.Genres.xml</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3e930f6f-ef84-442f-8038-7bc2ca69f5e0}-FanartHandler.Genres.xml</ZipFileName>
+        <DestinationFilename>%Base%\FanartHandler.Genres.xml</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\..\..\C#\FanartHandler\Installer\config\FanartHandler.Characters.xml</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{9fb9fadf-39ee-4e5d-a5ac-97391687e471}-FanartHandler.Characters.xml</ZipFileName>
+        <DestinationFilename>%Base%\FanartHandler.Characters.xml</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="true" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{b4c99901-0571-4a80-94e5-ccc02b71b7be}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{3ecc1f51-5610-4eb9-af2a-33fed96f0095}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
