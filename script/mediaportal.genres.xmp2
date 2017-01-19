@@ -1636,13 +1636,6 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\genres\music\international.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{833e319a-b2d1-48b7-a2d5-b114e4c00b42}-international.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\international.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\genres\music\jazz.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{19a3c628-2b7f-40cf-b7b1-7a532ab6170a}-jazz.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\jazz.png</DestinationFilename>
@@ -1653,13 +1646,6 @@
               <LocalFileName>..\genres\music\mambo.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{5e29d587-cf0e-40aa-95a9-8f557001b80f}-mambo.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\mambo.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\genres\music\melodic.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{1d4ec9fe-7f4e-400f-82e0-b3e5a59045b7}-melodic.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\melodic.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
@@ -1804,13 +1790,6 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\genres\music\cumbia.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{6c31f0d8-4312-4bfc-8942-f7d657b65310}-cumbia.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\cumbia.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\genres\music\drum&amp;bass.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{11ceacb8-cefe-4c69-80ee-36dfcdd69930}-drum&amp;bass.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\drum&amp;bass.png</DestinationFilename>
@@ -1835,13 +1814,6 @@
               <LocalFileName>..\genres\music\latin.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{08447a6c-612a-4c94-a9ee-99aac8b58c50}-latin.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\latin.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\genres\music\merengue.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{f8d6cce4-d3ad-4d8d-aeda-63c2cf38cd1b}-merengue.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\merengue.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
@@ -1884,13 +1856,6 @@
               <LocalFileName>..\genres\music\reggae.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{e6d1c9b7-7cbe-4e09-bb25-82d3288286da}-reggae.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\reggae.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\genres\music\salsa.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{21018397-5bfd-43d8-b2f9-0ba731016b61}-salsa.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\salsa.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
@@ -2279,7 +2244,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>8</Revision>
+      <Revision>9</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Genres images for Medaportal skins
 Genres - White 96x96 pack
@@ -3952,13 +3917,6 @@ Charachters - Color 96x96 pack</ExtensionDescription>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\genres\music\international.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{833e319a-b2d1-48b7-a2d5-b114e4c00b42}-international.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\international.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\genres\music\jazz.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{19a3c628-2b7f-40cf-b7b1-7a532ab6170a}-jazz.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\jazz.png</DestinationFilename>
@@ -3969,13 +3927,6 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <LocalFileName>..\genres\music\mambo.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{5e29d587-cf0e-40aa-95a9-8f557001b80f}-mambo.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\mambo.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\genres\music\melodic.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{1d4ec9fe-7f4e-400f-82e0-b3e5a59045b7}-melodic.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\melodic.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
@@ -4120,13 +4071,6 @@ Charachters - Color 96x96 pack</ExtensionDescription>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\genres\music\cumbia.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{6c31f0d8-4312-4bfc-8942-f7d657b65310}-cumbia.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\cumbia.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\genres\music\drum&amp;bass.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{11ceacb8-cefe-4c69-80ee-36dfcdd69930}-drum&amp;bass.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\drum&amp;bass.png</DestinationFilename>
@@ -4151,13 +4095,6 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <LocalFileName>..\genres\music\latin.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{08447a6c-612a-4c94-a9ee-99aac8b58c50}-latin.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\latin.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\genres\music\merengue.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{f8d6cce4-d3ad-4d8d-aeda-63c2cf38cd1b}-merengue.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\merengue.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
@@ -4200,13 +4137,6 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <LocalFileName>..\genres\music\reggae.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{e6d1c9b7-7cbe-4e09-bb25-82d3288286da}-reggae.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\reggae.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\genres\music\salsa.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{21018397-5bfd-43d8-b2f9-0ba731016b61}-salsa.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\salsa.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
@@ -4443,7 +4373,7 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{2e859754-471d-4aba-8555-23a6c46b6d30}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{407023d0-446a-4427-917f-46d1d13d8a61}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
