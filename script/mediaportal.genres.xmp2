@@ -2074,6 +2074,13 @@
               <ZipFileName>Installer{CopyFile}\{3ba5d22b-a0a6-400b-b236-c4b29bd13732}-shellfish.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\shellfish.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\music\relax.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{39991319-0ff9-4a85-8732-9f7624cfad4f}-relax.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\relax.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -2244,16 +2251,15 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>9</Revision>
+      <Revision>10</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Genres images for Medaportal skins
 Genres - White 96x96 pack
 Charachters - Color 96x96 pack</ExtensionDescription>
-    <VersionDescription>Add new Characters
-</VersionDescription>
+    <VersionDescription>Add relax music genre</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.genres/master/build/mediaportal.genres.mpe1</OnlineLocation>
-    <ReleaseDate>2017-01-19T13:46:50</ReleaseDate>
+    <ReleaseDate>2017-01-21T13:46:50</ReleaseDate>
     <Tags>mediaportal, genres</Tags>
     <Location>..\build\mediaportal.genres.mpe1</Location>
     <Params>
@@ -4355,6 +4361,13 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{3ba5d22b-a0a6-400b-b236-c4b29bd13732}-shellfish.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\shellfish.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\music\relax.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{39991319-0ff9-4a85-8732-9f7624cfad4f}-relax.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\relax.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -4373,7 +4386,7 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{407023d0-446a-4427-917f-46d1d13d8a61}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{55efe653-f6d9-4f69-a209-118eb104fbd0}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
