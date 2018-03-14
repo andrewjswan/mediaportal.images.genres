@@ -2564,6 +2564,272 @@
               <ZipFileName>Installer{CopyFile}\{ef9dce99-e661-4b5c-9461-ee0281b2264a}-lullaby.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\lullaby.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\deathstroke.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4672f877-d965-4504-982d-10dc9352c8a4}-deathstroke.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\deathstroke.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\firestorm.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{989e1b05-8147-4dd9-b08d-258bf23d61da}-firestorm.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\firestorm.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\music\audiobook.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d4f9a41d-8497-454b-8449-f5d634a77385}-audiobook.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\audiobook.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\agent smith.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{f61bd157-731a-433c-836f-3869a291705b}-agent smith.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\agent smith.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\baseball.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{dfbcf1af-bccd-4514-9f5d-ea805e4a199e}-baseball.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\baseball.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\biohazard.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{986f6dd2-4bee-49a6-b4f2-a34c773311f3}-biohazard.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\biohazard.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\caduceus.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{0468e318-0fe2-4ee0-8fe6-b0c84a50ab54}-caduceus.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\caduceus.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\cyberpunk.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{faf87e8c-0062-419a-ae99-75035f370468}-cyberpunk.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\cyberpunk.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\cyborg.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{35627585-9a59-434a-bd82-d082b3b981c7}-cyborg.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\cyborg.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\elf.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4421e1aa-1396-4ddc-9e08-e55d5d7f45c9}-elf.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\elf.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\express.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d61e02c4-a909-4b0c-a8d4-0ffcc86207b1}-express.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\express.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\fingerprint.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{86b1f9a4-35e0-410c-b216-39b492bbd330}-fingerprint.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\fingerprint.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\fireman.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{1a1e28d0-5565-4586-836b-a4d6395c76ba}-fireman.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\fireman.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\graduation.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{96e8ebae-7194-4628-add0-c8a9ab335fa5}-graduation.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\graduation.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\great wall.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3be1a8de-8afe-40f6-a42c-e2e7e73ed7d3}-great wall.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\great wall.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\gremlin.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{2c8d0ed9-24dc-4eda-a8bf-a825501d4100}-gremlin.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\gremlin.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\helmet.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{be0ec314-5e89-4fd5-8171-3888dcc89415}-helmet.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\helmet.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\hospital.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{f4130f90-732d-4b05-aa0b-dd82dd84a2bb}-hospital.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\hospital.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\identity-disc.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{abe2a447-17f5-4819-819d-69a625a82b4f}-identity-disc.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\identity-disc.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\jam.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6d1a26a1-5c32-47be-ab74-6e8ee4727920}-jam.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\jam.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\matrix.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4ac4d528-248f-4ce9-baa5-ad55931ff9c1}-matrix.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\matrix.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\morpheus.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{2c6a9e37-3a5a-4809-a117-6933b488611f}-morpheus.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\morpheus.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\neo.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a2ddc97e-e4cd-4eb4-8483-7e458dbad261}-neo.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\neo.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\police.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d2e5b212-1925-4cb1-a404-b0b327538002}-police.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\police.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\rose.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6c70a84d-6eb7-4853-b869-c64b1a3668db}-rose.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\rose.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\santa.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d830cccb-b707-494a-aa02-223d8f0e84b6}-santa.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\santa.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\school.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d1015ac0-a194-4bbb-8e2e-5657d1371b3f}-school.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\school.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\sheriff.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{57f63a91-928e-40af-a1dc-5ab26b582b7d}-sheriff.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\sheriff.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\skeleton.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{9631ae1f-9214-4e78-b045-d59f8ca5e412}-skeleton.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\skeleton.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\steampunk.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{99269574-d078-45c6-a1c2-ca0899a637e1}-steampunk.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\steampunk.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\subway.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{7b380c2d-5b75-4e80-a3f4-93650b4aa09a}-subway.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\subway.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\tardis.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{b9f54ba6-807d-4414-a0d7-c8ecfd371991}-tardis.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\tardis.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\thor.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{1516981d-fc89-4002-9303-54bc1c9777ed}-thor.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\thor.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\trinity.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{246ba241-6ceb-4699-8e57-e279f0611eed}-trinity.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\trinity.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\ukraine.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ac6e7419-12a5-40a9-8814-d904fcaf4e17}-ukraine.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\ukraine.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\willow.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{408a768d-3e65-4f3d-8352-51ee7b7d5701}-willow.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\willow.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\x-ray.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{053334c7-5e4e-40f3-8e56-b74b5e1b066a}-x-ray.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\x-ray.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\yoda.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e92f04c5-e5df-4474-9603-f746e6e01571}-yoda.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\yoda.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -2734,16 +3000,17 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>11</Revision>
+      <Revision>15</Revision>
     </Version>
-    <ExtensionDescription>FanartHandler Genres images for Medaportal skins
-Genres - White 96x96 pack
+    <ExtensionDescription>FanartHandler Genres images for Medaportal skins
+
+Genres - White 96x96 pack
+
 Charachters - Color 96x96 pack</ExtensionDescription>
-    <VersionDescription>Add banjo, lullaby music genre
-Add new Characters</VersionDescription>
+    <VersionDescription>Add new Characters</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.genres/master/build/mediaportal.genres.mpe1</OnlineLocation>
-    <ReleaseDate>2017-11-22T13:46:50</ReleaseDate>
+    <ReleaseDate>2018-03-14T13:46:50</ReleaseDate>
     <Tags>mediaportal, genres</Tags>
     <Location>..\build\mediaportal.genres.mpe1</Location>
     <Params>
@@ -5335,6 +5602,272 @@ Add new Characters</VersionDescription>
         <ZipFileName>Installer{CopyFile}\{ef9dce99-e661-4b5c-9461-ee0281b2264a}-lullaby.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\lullaby.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\deathstroke.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4672f877-d965-4504-982d-10dc9352c8a4}-deathstroke.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\deathstroke.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\firestorm.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{989e1b05-8147-4dd9-b08d-258bf23d61da}-firestorm.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\firestorm.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\music\audiobook.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d4f9a41d-8497-454b-8449-f5d634a77385}-audiobook.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\audiobook.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\agent smith.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{f61bd157-731a-433c-836f-3869a291705b}-agent smith.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\agent smith.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\baseball.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{dfbcf1af-bccd-4514-9f5d-ea805e4a199e}-baseball.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\baseball.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\biohazard.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{986f6dd2-4bee-49a6-b4f2-a34c773311f3}-biohazard.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\biohazard.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\caduceus.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{0468e318-0fe2-4ee0-8fe6-b0c84a50ab54}-caduceus.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\caduceus.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\cyberpunk.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{faf87e8c-0062-419a-ae99-75035f370468}-cyberpunk.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\cyberpunk.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\cyborg.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{35627585-9a59-434a-bd82-d082b3b981c7}-cyborg.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\cyborg.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\elf.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4421e1aa-1396-4ddc-9e08-e55d5d7f45c9}-elf.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\elf.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\express.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d61e02c4-a909-4b0c-a8d4-0ffcc86207b1}-express.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\express.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\fingerprint.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{86b1f9a4-35e0-410c-b216-39b492bbd330}-fingerprint.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\fingerprint.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\fireman.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{1a1e28d0-5565-4586-836b-a4d6395c76ba}-fireman.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\fireman.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\graduation.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{96e8ebae-7194-4628-add0-c8a9ab335fa5}-graduation.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\graduation.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\great wall.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3be1a8de-8afe-40f6-a42c-e2e7e73ed7d3}-great wall.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\great wall.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\gremlin.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{2c8d0ed9-24dc-4eda-a8bf-a825501d4100}-gremlin.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\gremlin.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\helmet.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{be0ec314-5e89-4fd5-8171-3888dcc89415}-helmet.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\helmet.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\hospital.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{f4130f90-732d-4b05-aa0b-dd82dd84a2bb}-hospital.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\hospital.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\identity-disc.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{abe2a447-17f5-4819-819d-69a625a82b4f}-identity-disc.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\identity-disc.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\jam.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{6d1a26a1-5c32-47be-ab74-6e8ee4727920}-jam.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\jam.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\matrix.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4ac4d528-248f-4ce9-baa5-ad55931ff9c1}-matrix.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\matrix.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\morpheus.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{2c6a9e37-3a5a-4809-a117-6933b488611f}-morpheus.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\morpheus.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\neo.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a2ddc97e-e4cd-4eb4-8483-7e458dbad261}-neo.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\neo.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\police.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d2e5b212-1925-4cb1-a404-b0b327538002}-police.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\police.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\rose.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{6c70a84d-6eb7-4853-b869-c64b1a3668db}-rose.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\rose.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\santa.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d830cccb-b707-494a-aa02-223d8f0e84b6}-santa.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\santa.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\school.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d1015ac0-a194-4bbb-8e2e-5657d1371b3f}-school.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\school.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\sheriff.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{57f63a91-928e-40af-a1dc-5ab26b582b7d}-sheriff.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\sheriff.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\skeleton.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{9631ae1f-9214-4e78-b045-d59f8ca5e412}-skeleton.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\skeleton.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\steampunk.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{99269574-d078-45c6-a1c2-ca0899a637e1}-steampunk.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\steampunk.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\subway.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{7b380c2d-5b75-4e80-a3f4-93650b4aa09a}-subway.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\subway.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\tardis.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{b9f54ba6-807d-4414-a0d7-c8ecfd371991}-tardis.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\tardis.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\thor.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{1516981d-fc89-4002-9303-54bc1c9777ed}-thor.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\thor.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\trinity.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{246ba241-6ceb-4699-8e57-e279f0611eed}-trinity.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\trinity.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\ukraine.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ac6e7419-12a5-40a9-8814-d904fcaf4e17}-ukraine.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\ukraine.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\willow.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{408a768d-3e65-4f3d-8352-51ee7b7d5701}-willow.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\willow.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\x-ray.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{053334c7-5e4e-40f3-8e56-b74b5e1b066a}-x-ray.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\x-ray.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\yoda.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e92f04c5-e5df-4474-9603-f746e6e01571}-yoda.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\yoda.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -5353,7 +5886,7 @@ Add new Characters</VersionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{6a17209a-1d03-4278-9e7b-61608f1ba413}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{cd4e996f-d906-4b18-bfd8-2b9596f4995f}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
