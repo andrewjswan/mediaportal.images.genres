@@ -2830,6 +2830,76 @@
               <ZipFileName>Installer{CopyFile}\{e92f04c5-e5df-4474-9603-f746e6e01571}-yoda.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\yoda.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\catwoman.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{2a0b6751-9d63-4c21-8662-83094b6a92e0}-catwoman.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\catwoman.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\deadpool.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a29f8a49-35e4-49e1-af20-9322d643f609}-deadpool.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\deadpool.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\groot.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{bd5d670f-3b25-445c-a2cd-7a00ff14a65c}-groot.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\groot.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\hawkman.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{023ce8d3-1c1c-45a9-8cbd-de1f16c5cea2}-hawkman.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\hawkman.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\jessica jones.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5b06cbe1-fd88-4729-acb6-1b863453771e}-jessica jones.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\jessica jones.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\luke cage.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{2725de9a-b925-4b8e-aee9-2d99276cf339}-luke cage.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\luke cage.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\moulin rouge.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{0fd88cda-6ca8-47f1-80ed-6db1904a9768}-moulin rouge.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\moulin rouge.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\s h i e l d.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{872b87e5-40c6-4a62-9b9a-d3a28bd6e86d}-s h i e l d.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\s h i e l d.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\venom.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{0c00e809-6aa5-4882-9b98-d33a4e07457c}-venom.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\venom.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\volcano.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c7a9cfd3-5654-4a6a-9a39-8cb03ba718d2}-volcano.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\volcano.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -3000,7 +3070,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>15</Revision>
+      <Revision>17</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Genres images for Medaportal skins
 
@@ -3010,7 +3080,7 @@ Charachters - Color 96x96 pack</ExtensionDescription>
     <VersionDescription>Add new Characters</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.genres/master/build/mediaportal.genres.mpe1</OnlineLocation>
-    <ReleaseDate>2018-03-14T13:46:50</ReleaseDate>
+    <ReleaseDate>2019-02-06T13:46:50</ReleaseDate>
     <Tags>mediaportal, genres</Tags>
     <Location>..\build\mediaportal.genres.mpe1</Location>
     <Params>
@@ -5867,6 +5937,76 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <LocalFileName>..\genres\characters\yoda.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{e92f04c5-e5df-4474-9603-f746e6e01571}-yoda.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\yoda.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\catwoman.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{2a0b6751-9d63-4c21-8662-83094b6a92e0}-catwoman.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\catwoman.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\deadpool.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a29f8a49-35e4-49e1-af20-9322d643f609}-deadpool.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\deadpool.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\groot.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{bd5d670f-3b25-445c-a2cd-7a00ff14a65c}-groot.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\groot.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\hawkman.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{023ce8d3-1c1c-45a9-8cbd-de1f16c5cea2}-hawkman.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\hawkman.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\jessica jones.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5b06cbe1-fd88-4729-acb6-1b863453771e}-jessica jones.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\jessica jones.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\luke cage.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{2725de9a-b925-4b8e-aee9-2d99276cf339}-luke cage.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\luke cage.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\moulin rouge.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{0fd88cda-6ca8-47f1-80ed-6db1904a9768}-moulin rouge.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\moulin rouge.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\s h i e l d.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{872b87e5-40c6-4a62-9b9a-d3a28bd6e86d}-s h i e l d.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\s h i e l d.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\venom.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{0c00e809-6aa5-4882-9b98-d33a4e07457c}-venom.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\venom.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\volcano.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c7a9cfd3-5654-4a6a-9a39-8cb03ba718d2}-volcano.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\volcano.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
