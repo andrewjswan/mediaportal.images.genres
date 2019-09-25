@@ -2900,6 +2900,62 @@
               <ZipFileName>Installer{CopyFile}\{c7a9cfd3-5654-4a6a-9a39-8cb03ba718d2}-volcano.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\volcano.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\aquaman.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6a007381-87ef-46e6-8260-e98f75988940}-aquaman.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\aquaman.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\chewbacca.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{83186d9b-3b55-4fc4-9fa9-ef366b90c208}-chewbacca.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\chewbacca.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\green arrow.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{036c3805-a3b0-4970-8d91-aaaf97ba674f}-green arrow.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\green arrow.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\smurf.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a5b671f3-9214-4ca0-825a-760c9f914c4f}-smurf.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\smurf.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\snitch.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6e3547b9-ed9a-4d12-8eab-7547d2eccad8}-snitch.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\snitch.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\stalker.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{0d199b06-6fcb-4006-94f4-f215b1433377}-stalker.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\stalker.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\symfony.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{b3af6a80-ff09-4c22-b9d7-f547b703b2f9}-symfony.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\symfony.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\transformer.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d0472c46-1e20-4bfa-850c-0f5aba5a0270}-transformer.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\transformer.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -3070,7 +3126,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>17</Revision>
+      <Revision>19</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Genres images for Medaportal skins
 
@@ -3080,7 +3136,7 @@ Charachters - Color 96x96 pack</ExtensionDescription>
     <VersionDescription>Add new Characters</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.genres/master/build/mediaportal.genres.mpe1</OnlineLocation>
-    <ReleaseDate>2019-02-06T13:46:50</ReleaseDate>
+    <ReleaseDate>2019-09-25T13:46:50</ReleaseDate>
     <Tags>mediaportal, genres</Tags>
     <Location>..\build\mediaportal.genres.mpe1</Location>
     <Params>
@@ -6008,6 +6064,62 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{c7a9cfd3-5654-4a6a-9a39-8cb03ba718d2}-volcano.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\volcano.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\aquaman.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{6a007381-87ef-46e6-8260-e98f75988940}-aquaman.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\aquaman.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\chewbacca.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{83186d9b-3b55-4fc4-9fa9-ef366b90c208}-chewbacca.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\chewbacca.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\green arrow.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{036c3805-a3b0-4970-8d91-aaaf97ba674f}-green arrow.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\green arrow.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\smurf.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a5b671f3-9214-4ca0-825a-760c9f914c4f}-smurf.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\smurf.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\snitch.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{6e3547b9-ed9a-4d12-8eab-7547d2eccad8}-snitch.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\snitch.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\stalker.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{0d199b06-6fcb-4006-94f4-f215b1433377}-stalker.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\stalker.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\symfony.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{b3af6a80-ff09-4c22-b9d7-f547b703b2f9}-symfony.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\symfony.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\transformer.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d0472c46-1e20-4bfa-850c-0f5aba5a0270}-transformer.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\transformer.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -6026,7 +6138,7 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{cd4e996f-d906-4b18-bfd8-2b9596f4995f}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{868c343a-c3b0-46de-b205-7611c979e428}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
