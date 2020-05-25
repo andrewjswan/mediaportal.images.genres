@@ -2956,6 +2956,20 @@
               <ZipFileName>Installer{CopyFile}\{d0472c46-1e20-4bfa-850c-0f5aba5a0270}-transformer.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\transformer.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\music\10s.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ed394386-30ec-411e-b87d-ce268cdbd791}-10s.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\10s.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\music\20s.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{970aca77-32c3-4e81-9710-d095c3dde33a}-20s.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\20s.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -3126,17 +3140,17 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>19</Revision>
+      <Revision>21</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Genres images for Medaportal skins
 
 Genres - White 96x96 pack
 
 Charachters - Color 96x96 pack</ExtensionDescription>
-    <VersionDescription>Add new Characters</VersionDescription>
+    <VersionDescription>Add new Music genres</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.genres/master/build/mediaportal.genres.mpe1</OnlineLocation>
-    <ReleaseDate>2019-09-25T13:46:50</ReleaseDate>
+    <ReleaseDate>2020-05-25T13:46:50</ReleaseDate>
     <Tags>mediaportal, genres</Tags>
     <Location>..\build\mediaportal.genres.mpe1</Location>
     <Params>
@@ -6120,6 +6134,20 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{d0472c46-1e20-4bfa-850c-0f5aba5a0270}-transformer.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\transformer.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\music\10s.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ed394386-30ec-411e-b87d-ce268cdbd791}-10s.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\10s.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\music\20s.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{970aca77-32c3-4e81-9710-d095c3dde33a}-20s.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\music\20s.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -6138,7 +6166,7 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{868c343a-c3b0-46de-b205-7611c979e428}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{e0f91e45-c883-4226-96b7-6ae2e284ca5e}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
