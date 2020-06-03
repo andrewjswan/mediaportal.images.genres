@@ -730,10 +730,10 @@ Charachters - Color 96x96 pack</ExtensionDescription>
 Genres - White 96x96 pack
 
 Charachters - Color 96x96 pack</ExtensionDescription>
-        <VersionDescription>Add new Music genres</VersionDescription>
+        <VersionDescription>Add new characters</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
         <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.genres/master/build/mediaportal.genres.mpe1</OnlineLocation>
-        <ReleaseDate>2020-05-25T13:46:50</ReleaseDate>
+        <ReleaseDate>2020-06-03T13:46:50</ReleaseDate>
         <Tags>mediaportal, genres</Tags>
         <Location>..\build\mediaportal.genres.mpe1</Location>
         <Params>
