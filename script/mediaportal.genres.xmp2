@@ -2882,13 +2882,6 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\genres\characters\s h i e l d.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{872b87e5-40c6-4a62-9b9a-d3a28bd6e86d}-s h i e l d.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\s h i e l d.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\genres\characters\venom.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{0c00e809-6aa5-4882-9b98-d33a4e07457c}-venom.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\venom.png</DestinationFilename>
@@ -2990,6 +2983,13 @@
               <LocalFileName>..\genres\characters\train.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{db1fe0d3-2dda-4745-ac0f-95c58c0a7f48}-train.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\train.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\genres\characters\s-h-i-e-l-d.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{913c6505-4b09-4d4f-95c5-0595ef9f5ffb}-s-h-i-e-l-d.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\s-h-i-e-l-d.png</DestinationFilename>
             </FileItem>
           </Items>
         </Files>
@@ -3161,7 +3161,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>21</Revision>
+      <Revision>23</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Genres images for Medaportal skins
 
@@ -6081,13 +6081,6 @@ Charachters - Color 96x96 pack</ExtensionDescription>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\genres\characters\s h i e l d.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{872b87e5-40c6-4a62-9b9a-d3a28bd6e86d}-s h i e l d.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\s h i e l d.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\genres\characters\venom.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{0c00e809-6aa5-4882-9b98-d33a4e07457c}-venom.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\venom.png</DestinationFilename>
@@ -6190,6 +6183,13 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{db1fe0d3-2dda-4745-ac0f-95c58c0a7f48}-train.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\train.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\genres\characters\s-h-i-e-l-d.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{913c6505-4b09-4d4f-95c5-0595ef9f5ffb}-s-h-i-e-l-d.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Genres\characters\s-h-i-e-l-d.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -6208,7 +6208,7 @@ Charachters - Color 96x96 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{76cb82dc-09f6-4f4b-9d6e-3e25595a53ca}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{545cc0dc-0644-41c3-920b-9e807d690ac9}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
