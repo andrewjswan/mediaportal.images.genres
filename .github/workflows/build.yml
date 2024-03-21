@@ -88,6 +88,7 @@ jobs:
 
       - name: Add Badges to Release Version Description
         run: |
+          ECHO. >> description.txt
           ECHO [![Downloads](https://img.shields.io/github/downloads/andrewjswan/mediaportal.images.genres/v${{steps.version.outputs.version}}/total)](https://github.com/andrewjswan/mediaportal.images.genres/releases/tag/v${{steps.version.outputs.version}}) [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md) >> description.txt
         working-directory: ${{ github.workspace }}\script
         shell: cmd
